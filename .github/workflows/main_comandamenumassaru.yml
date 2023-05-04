@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ComandaMenuMassaru'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6E8A2C2ECA74C14A1FF97EE4A1F683F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A2387B3557BD438E91DF0AFD64A1B361 }}
           package: .
